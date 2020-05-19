@@ -5,6 +5,7 @@ body{
   font-size: 16px;
   margin: 0;
   padding: 0;
+  background-color: #1e1f24;
 }
 
 .container{
@@ -18,12 +19,16 @@ body{
   font-size: 20px;
 }
 .cabecera{
-  background: #33A;
+  background: #37448b;
   box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
   color: white;
   font-weight: bold;
   margin: 0;
   padding: 0.5em;
+}
+.logo{
+  width: 30px;
+  vertical-align: middle;
 }
 .tagline{
   padding: 0 0 0 1;
@@ -32,6 +37,7 @@ body{
 }
 .post{
   padding: 1em;
+  background: white;
 }
 
 
